@@ -10,6 +10,10 @@ public class ChessProdigies {
             }
             sum+=rating[i];
         }
+        
+        Map<Integer,Integer> hashMap0 = new HashMap<Integer,Integer>();
+        HashMap<Integer,Integer> hashMap1 = new HashMap<Integer,Integer>();
+        HashMap<Integer,Integer> hashMap2 = new HashMap<>();
         Collections.reverse(list);
         return list;
     }
