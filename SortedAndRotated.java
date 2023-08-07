@@ -1,4 +1,7 @@
+import java.sql.Timestamp;
+import java.time.LocalDate;
 import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.List;
 
 public class SortedAndRotated {
@@ -26,7 +29,24 @@ public class SortedAndRotated {
     }
 
     public static void main(String[] args) {
-        int[] nums = new int[]{3,1,2,2,4};
-        System.out.println(check(nums));
+ArrayList<Integer> data = new ArrayList<Integer>();
+
+data.add(1);
+
+data.add(2);
+
+data.add(4);
+
+data.add(7);
+
+data.add(3);
+
+data.add(2);
+
+
+int length = data.size();
+
+data.forEach(number -> System.out.println(number));
     }
+
 }
