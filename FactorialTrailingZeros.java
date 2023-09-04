@@ -7,7 +7,7 @@ public class FactorialTrailingZeros{
         }
         return count;
     }
-    public static void main(String[] args) { y
+    public static void main(String[] args) { 
         System.out.println(trailingZeroes(13));
     }
 } 
