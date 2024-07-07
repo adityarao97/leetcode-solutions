@@ -10,14 +10,13 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
+        if(head==null){
+            return head;
+        }
         Stack<Integer> stack = new Stack<Integer>();
-        ListNode cur = head;
         while(head!=null){
             stack.push(head.val);
             head = head.next;
-        }
-        if(stack.size()==0){
-            return head;
         }
         ListNode res = new ListNode(stack.pop(), null);
         ListNode temp = res;
