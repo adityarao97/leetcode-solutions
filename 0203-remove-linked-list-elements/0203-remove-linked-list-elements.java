@@ -13,10 +13,6 @@ class Solution {
         if(head==null){
             return head;
         }
-        if(head.val==val && head.next==null){
-            head = null;
-            return head;
-        }
         while(head.val==val && head.next!=null){
             head = head.next;
         }
