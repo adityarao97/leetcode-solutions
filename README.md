@@ -41,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/adityarao97/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/adityarao97/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
