@@ -18,7 +18,7 @@ class Solution {
                 word.append(ch);
             }
         }
-        if(word.length>0){
+        if(word.length()>0){
             stack.push(word.toString());
         }
         //pop the stack until it's empty and append it to a string
