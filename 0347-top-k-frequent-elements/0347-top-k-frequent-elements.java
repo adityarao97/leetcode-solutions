@@ -1,36 +1,28 @@
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
-        //put elements in a frequency map -> map
         HashMap<Integer, Integer> map = new HashMap<Integer, Integer>();
-        int size = nums.length; 
-        for(int i=0; i < size; i++){
-            map.put(nums[i], map.getOrDefault(nums[i],0)+1);
+        LinkedHashMap<Integer, Integer> sortedMap = new LinkedHashMap<Integer, Integer>();
+        for(int n: nums){
+            map.put(n, map.getOrDefault(n, 0)+1);
         }
-        //initialize a list with size n from 0 to n
-        List<Integer>[] list = new ArrayList[size + 1];
-        //fill outer list with indexes from 0->nums.length
-        for(int i=0;i<size+1;i++){
-            list[i] = new ArrayList<>();
+        List<Map.Entry<Integer, Integer>> list = new ArrayList<>(map.entrySet());
+        Collections.sort(list, new Comparator<Map.Entry<Integer, Integer>>(){
+            @Override
+            public int compare(Map.Entry<Integer, Integer> o1, Map.Entry<Integer, Integer> o2){
+                return o2.getValue().compareTo(o1.getValue());
+            }
+        });
+        for(Map.Entry<Integer, Integer> entry: list){
+            sortedMap.put(entry.getKey(), entry.getValue());
         }
-        //loop across map and based on value insert in list as 
-            //list.add<map.getValue(i+1), list.get(i).add(map.getKey(i))>
-        for(Map.Entry<Integer, Integer> entry: map.entrySet()){
-            int frequency = entry.getValue();
-            list[frequency].add(entry.getKey());
-        }
-        //initialize an array with size as k
         int[] res = new int[k];
         int count = 0;
-        //loop through list in reverse order by decreasing k until it is 0 and add in result array
-        for(int i = list.length - 1; i>= 0 ; i--){
-            List<Integer> freq = list[i];
-            for(int num: freq){
-                res[count++] = num;
-                if(count==k){
-                    return res;
-                }
+        for(Integer key: sortedMap.keySet()){
+            res[count++] = key;
+            if(count>=k){
+                break;
             }
         }
-        return new int[0];
+        return res;
     }
 }
