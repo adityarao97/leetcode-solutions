@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/adityarao97/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0088-merge-sorted-array](https://github.com/adityarao97/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityarao97/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0347-top-k-frequent-elements](https://github.com/adityarao97/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/adityarao97/leetcode-solutions/tree/master/0792-binary-search) |
 | [0870-magic-squares-in-grid](https://github.com/adityarao97/leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/adityarao97/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0205-isomorphic-strings](https://github.com/adityarao97/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0347-top-k-frequent-elements](https://github.com/adityarao97/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0870-magic-squares-in-grid](https://github.com/adityarao97/leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [1635-number-of-good-pairs](https://github.com/adityarao97/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/adityarao97/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0347-top-k-frequent-elements](https://github.com/adityarao97/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Linked List
 |  |
@@ -81,9 +84,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/adityarao97/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1635-number-of-good-pairs](https://github.com/adityarao97/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 ## Greedy
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/adityarao97/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/adityarao97/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/adityarao97/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/adityarao97/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
