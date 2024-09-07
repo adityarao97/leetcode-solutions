@@ -10,6 +10,7 @@ class Solution {
             }
             left = i + 1;
             right = nums.length - 1;
+            //two pointer approach
             while(left < right){
                 sum = nums[i] + nums[left] + nums[right];
                 if(sum>0){
