@@ -4,9 +4,11 @@ class Solution {
         int left = 0, right = 0, sum = 0;
         Arrays.sort(nums);
         for(int i=0;i<nums.length-1;i++){
+        //array is sorted hence any combination with same starting value will result in duplicate, so we skip that
             if(i>0 && nums[i]==nums[i-1]){
                 continue;
             }
+            //two pointer approach
             left = i + 1;
             right = nums.length - 1;
             while(left<right){
