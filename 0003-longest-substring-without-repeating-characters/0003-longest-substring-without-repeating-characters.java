@@ -1,10 +1,12 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        int left = 0, right = 0;
+        int left = 0, right = 0, count = 0;
         int maxLength = 0, tempLength = 0;
+        char ch = '!';
+        String subStr = "";
         HashSet<Character> set = new HashSet<>();
         while(right<s.length()){
-            char ch = s.charAt(right);
+            ch = s.charAt(right);
             if(!set.contains(ch)){
                 set.add(ch);
                 tempLength = right - left + 1;
@@ -12,8 +14,8 @@ class Solution {
                 right++;
             }
             else{
-                String subStr = s.substring(left, right + 1);
-                int count = left;
+                subStr = s.substring(left, right + 1);
+                count = left;
                 for(char chTemp: subStr.toCharArray()){
                     if(chTemp!=ch){
                         set.remove(chTemp);
