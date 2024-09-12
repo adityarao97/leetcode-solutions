@@ -15,17 +15,12 @@ class Solution {
             }
             else{
                 subStr = s.substring(left, right + 1);
-                count = left;
-                for(char chTemp: subStr.toCharArray()){
-                    if(chTemp!=ch){
-                        set.remove(chTemp);
-                        count++;
-                    }
-                    else{
-                        break;
-                    }
+                count = 0;
+                while(subStr.charAt(count)!=ch){
+                    set.remove(subStr.charAt(count));
+                    count++;
                 }
-                left = count + 1;
+                left = left + count + 1;
                 set.remove(ch);
             }
         }
