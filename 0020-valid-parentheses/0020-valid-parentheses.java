@@ -1,17 +1,17 @@
 class Solution {
     public boolean isValid(String s) {
-        char[] charArr = s.toCharArray();
         Stack<Character> stack = new Stack<>();
-        for(char ch: charArr){
-            if(ch == '(' || ch == '[' || ch == '{'){
+        char[] charArr = s.toCharArray();
+        for(char ch : charArr){
+            if(ch == '(' || ch == '{' || ch == '['){
                 stack.push(ch);
             }
-            else {
-                if(stack.size()==0){
+            else{
+                if(stack.size()<=0){
                     return false;
                 }
-                char popped = stack.pop();
-                if((ch == ')' && popped != '(') || (ch == ']' && popped != '[') || (ch == '}' && popped != '{')){
+                char temp = stack.pop();
+                if((temp == '(' && ch != ')') || (temp == '{' && ch != '}') || (temp == '[' && ch != ']')){
                     return false;
                 }
             }
