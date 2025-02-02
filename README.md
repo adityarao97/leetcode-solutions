@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/adityarao97/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/adityarao97/leetcode-solutions/tree/master/0792-binary-search) |
 | [0870-magic-squares-in-grid](https://github.com/adityarao97/leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
+| [0883-car-fleet](https://github.com/adityarao97/leetcode-solutions/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/adityarao97/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/adityarao97/leetcode-solutions/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/adityarao97/leetcode-solutions/tree/master/0948-sort-an-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/adityarao97/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/adityarao97/leetcode-solutions/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/adityarao97/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/adityarao97/leetcode-solutions/tree/master/0883-car-fleet) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/adityarao97/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/adityarao97/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/adityarao97/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0883-car-fleet](https://github.com/adityarao97/leetcode-solutions/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/adityarao97/leetcode-solutions/tree/master/0948-sort-an-array) |
 ## Linked List
 |  |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adityarao97/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/adityarao97/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/adityarao97/leetcode-solutions/tree/master/0883-car-fleet) |
 ## Queue
 |  |
 | ------- |
