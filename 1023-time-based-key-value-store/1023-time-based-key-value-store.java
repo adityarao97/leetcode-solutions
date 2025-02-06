@@ -13,10 +13,10 @@ class TimeMap {
     
     public String get(String key, int timestamp) {
         List<Pair> values = map.getOrDefault(key, new ArrayList<>());
-        int left = 0, right = values.size()-1, mid = 0;
+        int left = 0, right = values.size()-1;
         String result = "";
         while(left <= right){
-            mid = (left + right) / 2;
+            int mid = (left + right) / 2;
             Pair pair = values.get(mid);
             if(pair.getTimestamp() <= timestamp){
                 result = pair.getValue();
