@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/adityarao97/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/adityarao97/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0870-magic-squares-in-grid](https://github.com/adityarao97/leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
+| [1023-time-based-key-value-store](https://github.com/adityarao97/leetcode-solutions/tree/master/1023-time-based-key-value-store) |
 | [1635-number-of-good-pairs](https://github.com/adityarao97/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/adityarao97/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/adityarao97/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [1023-time-based-key-value-store](https://github.com/adityarao97/leetcode-solutions/tree/master/1023-time-based-key-value-store) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/adityarao97/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/adityarao97/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 ## Stack
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/adityarao97/leetcode-solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/adityarao97/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/adityarao97/leetcode-solutions/tree/master/1023-time-based-key-value-store) |
 ## Sorting
 |  |
 | ------- |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/adityarao97/leetcode-solutions/tree/master/0155-min-stack) |
+| [1023-time-based-key-value-store](https://github.com/adityarao97/leetcode-solutions/tree/master/1023-time-based-key-value-store) |
 ## Monotonic Stack
 |  |
 | ------- |
