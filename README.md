@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityarao97/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/adityarao97/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0778-reorganize-string](https://github.com/adityarao97/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [0870-magic-squares-in-grid](https://github.com/adityarao97/leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [1023-time-based-key-value-store](https://github.com/adityarao97/leetcode-solutions/tree/master/1023-time-based-key-value-store) |
 | [1635-number-of-good-pairs](https://github.com/adityarao97/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/adityarao97/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/adityarao97/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0778-reorganize-string](https://github.com/adityarao97/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [1023-time-based-key-value-store](https://github.com/adityarao97/leetcode-solutions/tree/master/1023-time-based-key-value-store) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/adityarao97/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/adityarao97/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/adityarao97/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/adityarao97/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0778-reorganize-string](https://github.com/adityarao97/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [0883-car-fleet](https://github.com/adityarao97/leetcode-solutions/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/adityarao97/leetcode-solutions/tree/master/0948-sort-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/adityarao97/leetcode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -158,12 +161,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/adityarao97/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0778-reorganize-string](https://github.com/adityarao97/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [1635-number-of-good-pairs](https://github.com/adityarao97/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adityarao97/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0778-reorganize-string](https://github.com/adityarao97/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/adityarao97/leetcode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Divide and Conquer
 |  |
@@ -176,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/adityarao97/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/adityarao97/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0778-reorganize-string](https://github.com/adityarao97/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/adityarao97/leetcode-solutions/tree/master/0948-sort-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/adityarao97/leetcode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Bucket Sort
