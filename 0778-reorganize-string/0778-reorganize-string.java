@@ -27,7 +27,7 @@ class Solution {
             map.put(second, map.get(second) - 1);
             sb.append(second);
 
-            //check if map still has a frequency more than 1 for these characters if so add it back to heap
+            //check if map still has a frequency more than 0 for these characters if so add it back to heap
             if(map.get(first)>0){
                 maxHeap.add(first);
             } 
