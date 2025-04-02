@@ -21,8 +21,7 @@ class Solution {
         Node cur = head;
         //first pass to do a deep copy of individual nodes without any link and map it to original node in hashmap
         while(cur!=null){
-            Node copy = new Node(cur.val);
-            map.put(cur, copy);
+            map.put(cur, new Node(cur.val));
             cur = cur.next;
         }
         cur = head;
