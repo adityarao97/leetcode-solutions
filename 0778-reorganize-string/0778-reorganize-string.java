@@ -1,35 +1,46 @@
 class Solution {
     public String reorganizeString(String s) {
-        Map<Character, Integer> freqMap = new HashMap<>();
+        //create a character to integer frequency map
+        Map<Character, Integer> map = new HashMap<Character, Integer>();
         for(char ch: s.toCharArray()){
-            freqMap.put(ch, freqMap.getOrDefault(ch,0)+1);
+            map.put(ch, map.getOrDefault(ch,0)+1);
         }
-        Queue<Character> maxHeap = new PriorityQueue<>((a, b) -> freqMap.get(b) - freqMap.get(a));
-        maxHeap.addAll(freqMap.keySet());
+        
+        //create a maxHeap and add all characters from map in decreasing order
+        Queue<Character> maxHeap = new PriorityQueue<>((a,b) -> map.get(b) - map.get(a));
+        maxHeap.addAll(map.keySet());
+        
+        //create a string builder to append characters
         StringBuilder sb = new StringBuilder();
+
+        //loop until maxHeap has more than 1 elements
         while(maxHeap.size()>1){
-            //append first most frequent character
-            char firstCharacter = maxHeap.poll();
-            freqMap.put(firstCharacter, freqMap.get(firstCharacter) - 1);
-            sb.append(firstCharacter);
-            //append second most frequent character
-            char secondCharacter = maxHeap.poll();
-            freqMap.put(secondCharacter, freqMap.get(secondCharacter) - 1);
-            sb.append(secondCharacter);
-            //add characters back to the heap if they're more than 0
-            if(freqMap.get(firstCharacter)>0){
-                maxHeap.add(firstCharacter);
-            }
-            if(freqMap.get(secondCharacter)>0){
-                maxHeap.add(secondCharacter);
+            //extract the highest occuring character
+            char first = maxHeap.poll();
+            //reduce the map count value for this character
+            map.put(first, map.get(first) - 1);
+            //append to string
+            sb.append(first);
+
+            //do the same with next most frequent character
+            char second = maxHeap.poll();
+            map.put(second, map.get(second) - 1);
+            sb.append(second);
+
+            //check if map still has a frequency more than 1 for these characters if so add it back to heap
+            if(map.get(first)>0){
+                maxHeap.add(first);
+            } 
+            if(map.get(second)>0){
+                maxHeap.add(second);
             }
         }
+
+        //check if maxHeap is still not empty
         if(!maxHeap.isEmpty()){
-            //if maxHeap has more than 1 characters it means that we need to append cannot create required string
-            if(freqMap.get(maxHeap.peek())>1){
+            if(map.get(maxHeap.peek())>1){
                 return "";
             }
-            //maxHeap has only one character which we append
             else{
                 sb.append(maxHeap.peek());
             }
