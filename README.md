@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/adityarao97/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adityarao97/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityarao97/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/adityarao97/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/adityarao97/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/adityarao97/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/adityarao97/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/adityarao97/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/adityarao97/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/adityarao97/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0870-magic-squares-in-grid](https://github.com/adityarao97/leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 ## String
 |  |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/adityarao97/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/adityarao97/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/adityarao97/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/adityarao97/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/adityarao97/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Doubly-Linked List
@@ -287,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/adityarao97/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/adityarao97/leetcode-solutions/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
