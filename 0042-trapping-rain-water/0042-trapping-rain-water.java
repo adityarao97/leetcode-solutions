@@ -1,25 +1,23 @@
 class Solution {
     public int trap(int[] height) {
-        int len = height.length;
-        int[] maxLeft = new int[len];
-        int[] maxRight = new int[len];
-        int[] minLeftRight = new int[len];
-        int max = 0, temp=0;
-        maxLeft[0] = 0;
-        maxRight[len-1] = 0;
-        for(int i=1;i<len;i++){
-            maxLeft[i] = Math.max(maxLeft[i-1], height[i-1]);
+        int res = 0;
+        int totalBuildings = height.length;
+        //create a prefix max array which for a given index will indicate max height on the left
+        int[] maxLeft = new int[totalBuildings];
+        maxLeft[0] = height[0];
+        for(int i=1; i<totalBuildings; i++){
+            maxLeft[i] = Math.max(height[i], maxLeft[i-1]);
         }
-        for(int i=len-2;i>=0;i--){
-            maxRight[i] = Math.max(maxRight[i+1],height[i+1]);
+        //create a suffix max array which for a given index will indicate max height on the right
+        int[] maxRight = new int[totalBuildings];
+        maxRight[totalBuildings-1] = height[totalBuildings-1];
+        for(int i=totalBuildings-2; i>=0; i--){
+            maxRight[i] = Math.max(height[i], maxRight[i+1]);
         }
-        for(int i=0;i<len;i++){
-            minLeftRight[i] = Math.min(maxLeft[i], maxRight[i]);
-            temp = minLeftRight[i] - height[i];
-            if(temp>0){
-                max+=temp;
-            }
+        //At each index the rain water trapped will be min of (maxLeft and maxRight) - height
+        for(int i=0; i<totalBuildings; i++){
+            res+=Math.min(maxLeft[i], maxRight[i]) - height[i];
         }
-        return max;
+        return res;
     }
 }
