@@ -1,21 +1,25 @@
 class Solution {
     public int[][] merge(int[][] intervals) {
-        //sort the intervals array by 1st element of each inner array 
-        Arrays.sort(intervals, (i1, i2) -> i1[0] - i2[0]);
-        //merge intervals if there's an overlap
-        List<int[]> result = new ArrayList<>();
-        result.add(intervals[0]);
-        for(int i = 1; i < intervals.length; i++){
-            int[] prev = result.get(result.size()-1);
-            int[] cur = intervals[i];
-            if(prev[1] >= cur[0]){
-                prev[1] = Math.max(prev[1], cur[1]);
-            }else{
-                result.add(cur);
+        List<int[]> list = new ArrayList<>();
+        Arrays.sort(intervals, (a, b) -> a[0]!=b[0] ? Integer.compare(a[0], b[0]) : Integer.compare(a[1], b[1]));
+        list.add(intervals[0]);
+        for(int i=1; i<intervals.length; i++){
+            int[] last = list.get(list.size()-1);
+            int[] curr = intervals[i];
+            //completely disjoint case
+            if(last[1] < curr[0]){
+                list.add(curr);
+            }
+            //partially or complete joint case
+            else{
+                list.set(list.size()-1, new int[]{Math.min(last[0], curr[0]), Math.max(last[1], curr[1])});
             }
         }
-        int[][] merged = new int[result.size()][2];
-        result.toArray(merged);
-        return merged;
+        int[][] result = new int[list.size()][2];
+        int count = 0;
+        for(int[] item: list){
+            result[count++] = item;
+        }
+        return result;
     }
 }
