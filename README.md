@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/adityarao97/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/adityarao97/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0252-meeting-rooms](https://github.com/adityarao97/leetcode-solutions/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/adityarao97/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/adityarao97/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/adityarao97/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/adityarao97/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityarao97/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0253-meeting-rooms-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
 | [0344-reverse-string](https://github.com/adityarao97/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/adityarao97/leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/adityarao97/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adityarao97/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0252-meeting-rooms](https://github.com/adityarao97/leetcode-solutions/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/adityarao97/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/adityarao97/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adityarao97/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0253-meeting-rooms-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
 | [0435-non-overlapping-intervals](https://github.com/adityarao97/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0680-valid-palindrome-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/adityarao97/leetcode-solutions/tree/master/0778-reorganize-string) |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/adityarao97/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0253-meeting-rooms-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/adityarao97/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/adityarao97/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/adityarao97/leetcode-solutions/tree/master/0948-sort-an-array) |
@@ -310,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/adityarao97/leetcode-solutions/tree/master/0547-number-of-provinces) |
+## Prefix Sum
+|  |
+| ------- |
+| [0253-meeting-rooms-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
 <!---LeetCode Topics End-->
