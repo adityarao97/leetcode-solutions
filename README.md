@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/adityarao97/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/adityarao97/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/adityarao97/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/adityarao97/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adityarao97/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/adityarao97/leetcode-solutions/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/adityarao97/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/adityarao97/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/adityarao97/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/adityarao97/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -313,11 +315,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/adityarao97/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/adityarao97/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/adityarao97/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/adityarao97/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/adityarao97/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/adityarao97/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/adityarao97/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
