@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/adityarao97/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/adityarao97/leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/adityarao97/leetcode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2681-put-marbles-in-bags](https://github.com/adityarao97/leetcode-solutions/tree/master/2681-put-marbles-in-bags) |
 ## Hash Table
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/adityarao97/leetcode-solutions/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/adityarao97/leetcode-solutions/tree/master/0948-sort-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/adityarao97/leetcode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2681-put-marbles-in-bags](https://github.com/adityarao97/leetcode-solutions/tree/master/2681-put-marbles-in-bags) |
 ## Linked List
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/adityarao97/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/adityarao97/leetcode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2681-put-marbles-in-bags](https://github.com/adityarao97/leetcode-solutions/tree/master/2681-put-marbles-in-bags) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/adityarao97/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/adityarao97/leetcode-solutions/tree/master/0948-sort-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/adityarao97/leetcode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2681-put-marbles-in-bags](https://github.com/adityarao97/leetcode-solutions/tree/master/2681-put-marbles-in-bags) |
 ## Bucket Sort
 |  |
 | ------- |
