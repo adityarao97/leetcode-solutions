@@ -10,41 +10,29 @@
  */
 class Solution {
 
-    //function to merge two sorted lists
-    public ListNode merge2Lists(ListNode list1, ListNode list2){
-        ListNode mergeList = new ListNode(0);
-        ListNode temp = mergeList;
-        while(list1!=null && list2!=null){
-            if(list1.val <= list2.val){
-                temp.next = list1;
-                list1 = list1.next;
-            }
-            else{
-                temp.next = list2;
-                list2 = list2.next;
-            }
-            temp = temp.next;
-        }
-        if(list1!=null){
-            temp.next = list1;
-        }
-        else{
-            temp.next = list2;
-        }
-        return mergeList.next;
-    }
-
     public ListNode mergeKLists(ListNode[] lists) {
         if(lists.length==0){
             return null;
         }
-        if(lists.length==1){
-            return lists[0];
+        ListNode head = new ListNode(0);
+        ListNode temp = head;
+        PriorityQueue<ListNode> minHeap = new PriorityQueue<>((a,b)->Integer.compare(a.val, b.val));
+        //add all head of list to the min heap
+        for(ListNode list: lists){
+            if(list!=null){
+                minHeap.offer(list);
+            }
         }
-        ListNode head = merge2Lists(lists[0], lists[1]);
-        for(int i=2;i<lists.length; i++){
-            head = merge2Lists(head, lists[i]);
+        //until min heap is empty keep extracting the minimum value node and append it to the list
+        while(!minHeap.isEmpty()){
+            ListNode node = minHeap.poll();
+            temp.next = node;
+            temp = temp.next;
+            node = node.next;
+            if(node!=null){
+                minHeap.offer(node);
+            }
         }
-        return head;
+        return head.next;
     }
 }
