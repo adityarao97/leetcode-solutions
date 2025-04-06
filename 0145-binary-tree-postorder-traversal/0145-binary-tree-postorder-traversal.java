@@ -15,16 +15,28 @@
  */
 class Solution {
 
-    private void postorder(TreeNode root, List<Integer> list){
-        if(root.left!=null) postorder(root.left, list);
-        if(root.right!=null) postorder(root.right, list);
-        list.add(root.val);
-    }
-
     public List<Integer> postorderTraversal(TreeNode root) {
         List<Integer> list = new ArrayList<>();
         if(root == null) return list;
-        postorder(root, list);
+        Stack<TreeNode> stack = new Stack<>();
+        TreeNode prev = null;
+        while(root!=null || !stack.isEmpty()){
+            if(root!=null){
+                stack.push(root);
+                root = root.left;
+            }
+            else{
+                TreeNode peekNode = stack.peek();
+                // If the right child is not null and hasn't been processed, move to the right
+                if (peekNode.right != null && prev != peekNode.right) {
+                    root = peekNode.right;
+                } else {
+                    // If no children to process or the children are already processed, visit the node
+                    list.add(peekNode.val);
+                    prev = stack.pop();  // Mark this node as visited
+                }
+            }
+        }
         return list;
     }
 }
