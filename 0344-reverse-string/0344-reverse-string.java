@@ -1,13 +1,20 @@
 class Solution {
-    public void reverseString(char[] s) {
-        int left = 0, right = s.length-1;
-        while(left<right){
-            char ch1 = s[left];
-            char ch2 = s[right];
-            s[left] = ch2;
-            s[right] = ch1;
-            left++;
-            right--;
+
+    public void swap(char[] s, int l, int r){
+        char temp = s[l];
+        s[l] = s[r];
+        s[r] = temp;
+    }
+
+    public void recursiveReverse(char[] s, int l, int r){
+        if(l == r || l>r){
+            return;
         }
+        swap(s, l, r);
+        recursiveReverse(s, l+1, r-1);
+    }
+
+    public void reverseString(char[] s) {
+        recursiveReverse(s, 0, s.length-1);
     }
 }
