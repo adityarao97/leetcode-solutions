@@ -1,16 +1,16 @@
 class Solution {
 
-    private int recursive(int val){
-        if(val == 0){
-            return 0;
-        }
-        if(val == 1){
-            return 1;
-        }
-        return recursive(val - 1) + recursive(val - 2);
+    private int recursive(int idx, int[] dp){
+        if(idx <= 1) return idx;
+        if(dp[idx]!=-1) return dp[idx];
+        dp[idx] = recursive(idx - 1, dp) + recursive(idx - 2, dp);
+        return dp[idx];
     }
 
     public int fib(int n) {
-        return recursive(n);
+        int[] dp = new int[n+1];
+        for(int i=0; i<=n; i++)
+            dp[i] = -1;
+        return recursive(n, dp);
     }
 }
