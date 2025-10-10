@@ -9,8 +9,8 @@ class Solution:
         res = []
         q = collections.deque([root])
         while q:
-            rightSide = None
             qLen = len(q)
+            rightSide = None
             for i in range(qLen):
                 node = q.popleft()
                 if node:
@@ -19,4 +19,4 @@ class Solution:
                     q.append(node.right)
             if rightSide:
                 res.append(rightSide.val)
-        return res
+        return res                    
