@@ -2,8 +2,8 @@ class Twitter:
 
     def __init__(self):
         self.count = 0
-        self.tweetMap = defaultdict(list) #hashmap of user id and list of [count, tweetId]
-        self.followMap = defaultdict(set) #hashmap of follower id and set of followee id
+        self.followerMap = defaultdict(set)
+        self.tweetMap = defaultdict(list)
 
     def postTweet(self, userId: int, tweetId: int) -> None:
         self.tweetMap[userId].append([self.count, tweetId])
@@ -12,8 +12,8 @@ class Twitter:
     def getNewsFeed(self, userId: int) -> List[int]:
         res = []
         minHeap = []
-        self.followMap[userId].add(userId)
-        for followeeId in self.followMap[userId]:
+        self.followerMap[userId].add(userId)
+        for followeeId in self.followerMap[userId]:
             if followeeId in self.tweetMap:
                 index = len(self.tweetMap[followeeId]) - 1
                 count, tweetId = self.tweetMap[followeeId][index]
@@ -28,11 +28,11 @@ class Twitter:
         return res
 
     def follow(self, followerId: int, followeeId: int) -> None:
-        self.followMap[followerId].add(followeeId)
+        self.followerMap[followerId].add(followeeId)
 
     def unfollow(self, followerId: int, followeeId: int) -> None:
-        if followeeId in self.followMap[followerId]:
-            self.followMap[followerId].remove(followeeId)
+        if followeeId in self.followerMap[followerId]:
+            self.followerMap[followerId].remove(followeeId)
 
 
 # Your Twitter object will be instantiated and called as such:
