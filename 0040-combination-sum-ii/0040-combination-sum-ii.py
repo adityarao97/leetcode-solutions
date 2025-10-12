@@ -3,18 +3,19 @@ class Solution:
         res = []
         candidates.sort()
         def dfs(i, cur, total):
-            if target == total:
+            if total == target:
                 res.append(cur.copy())
+                return res
+            if i == len(candidates) or total > target:
                 return
-            if i >= len(candidates) or total > target:
-                return
-            #include elements in cur
+            #include i
             cur.append(candidates[i])
-            dfs(i+1, cur, total + candidates[i])
-            #don't include elements in cur
+            dfs(i + 1, cur, total + candidates[i])
+            #don't include i
             cur.pop()
-            while i + 1 < len(candidates) and candidates[i]==candidates[i+1]:
+            #loop to not include the same element
+            while i + 1 < len(candidates) and candidates[i] == candidates[i+1]:
                 i += 1
-            dfs(i+1, cur, total)
+            dfs(i + 1, cur, total)
         dfs(0, [], 0)
-        return res
+        return res 
