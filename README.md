@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/adityarao97/leetcode-solutions/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/adityarao97/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/adityarao97/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/adityarao97/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/adityarao97/leetcode-solutions/tree/master/1036-rotting-oranges) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0545-boundary-of-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/0545-boundary-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/adityarao97/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0684-redundant-connection](https://github.com/adityarao97/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/adityarao97/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/adityarao97/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/adityarao97/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/adityarao97/leetcode-solutions/tree/master/0684-redundant-connection) |
 ## Graph
 |  |
 | ------- |
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/adityarao97/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/adityarao97/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/adityarao97/leetcode-solutions/tree/master/0684-redundant-connection) |
 ## Prefix Sum
 |  |
 | ------- |
