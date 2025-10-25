@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-analyze-user-website-visit-pattern](https://github.com/adityarao97/leetcode-solutions/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1127-last-stone-weight](https://github.com/adityarao97/leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [1635-number-of-good-pairs](https://github.com/adityarao97/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
+| [1706-min-cost-to-connect-all-points](https://github.com/adityarao97/leetcode-solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/adityarao97/leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/adityarao97/leetcode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2681-put-marbles-in-bags](https://github.com/adityarao97/leetcode-solutions/tree/master/2681-put-marbles-in-bags) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/adityarao97/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/adityarao97/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/adityarao97/leetcode-solutions/tree/master/0684-redundant-connection) |
+| [1706-min-cost-to-connect-all-points](https://github.com/adityarao97/leetcode-solutions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Graph
 |  |
 | ------- |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/adityarao97/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/adityarao97/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/adityarao97/leetcode-solutions/tree/master/0744-network-delay-time) |
+| [1706-min-cost-to-connect-all-points](https://github.com/adityarao97/leetcode-solutions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -623,4 +626,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/adityarao97/leetcode-solutions/tree/master/0744-network-delay-time) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/adityarao97/leetcode-solutions/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
