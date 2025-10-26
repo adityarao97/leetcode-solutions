@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/adityarao97/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/adityarao97/leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/adityarao97/leetcode-solutions/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/adityarao97/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [0816-design-hashset](https://github.com/adityarao97/leetcode-solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/adityarao97/leetcode-solutions/tree/master/0817-design-hashmap) |
 | [0870-magic-squares-in-grid](https://github.com/adityarao97/leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/adityarao97/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/adityarao97/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/adityarao97/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [0870-magic-squares-in-grid](https://github.com/adityarao97/leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [1036-rotting-oranges](https://github.com/adityarao97/leetcode-solutions/tree/master/1036-rotting-oranges) |
 ## String
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/adityarao97/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/adityarao97/leetcode-solutions/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/adityarao97/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/adityarao97/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/adityarao97/leetcode-solutions/tree/master/1023-time-based-key-value-store) |
 ## Sorting
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/adityarao97/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/adityarao97/leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/adityarao97/leetcode-solutions/tree/master/0778-reorganize-string) |
+| [0794-swim-in-rising-water](https://github.com/adityarao97/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/adityarao97/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/adityarao97/leetcode-solutions/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/adityarao97/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
@@ -480,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/adityarao97/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/adityarao97/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/adityarao97/leetcode-solutions/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/adityarao97/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/adityarao97/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -538,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/adityarao97/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/adityarao97/leetcode-solutions/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/adityarao97/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/adityarao97/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -558,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/adityarao97/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/adityarao97/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/adityarao97/leetcode-solutions/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/adityarao97/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [1706-min-cost-to-connect-all-points](https://github.com/adityarao97/leetcode-solutions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Graph
 |  |
