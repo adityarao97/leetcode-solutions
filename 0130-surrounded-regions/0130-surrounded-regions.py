@@ -5,30 +5,25 @@ class Solution:
         """
         ROWS, COLS = len(board), len(board[0])
         directions = [[0, 1], [1, 0], [-1, 0], [0, -1]]
-        # 1. capture unsurrounded regions (0->T)
-        def capture(r, c):
-            if r < 0 or c < 0 or r == ROWS or c == COLS or board[r][c] != "O":
+        def dfs(r, c):
+            if r not in range(ROWS) or c not in range(COLS) or board[r][c]!='O':
                 return
-            board[r][c] = "T"
-            for direction in directions:
-                capture(r + direction[0], c + direction[1])
-        
+            board[r][c] = 'T'
+            for dr, dc in directions:
+                nr, nc = dr + r, dc + c
+                dfs(nr, nc)
+        #capture all Os which are on borders and do a dfs for each of them, mark them temporarily as 'T'
         for r in range(ROWS):
-            if board[r][0] == "O":
-                capture(r, 0)
-            if board[r][COLS - 1] == "O":
-                capture(r, COLS - 1)
-        
+            dfs(r, 0)
+            dfs(r, COLS - 1)
         for c in range(COLS):
-            if board[0][c] == "O":
-                capture(0, c)
-            if board[ROWS - 1][c] == "O":
-                capture(ROWS - 1, c)
-
-        #2. capture surrounded regions (0 -> X) and uncapture surrounded regions (T->0)
+            dfs(0, c)
+            dfs(ROWS - 1, c)
+        #convert all remaining 'O's which will all be surrounded by 'X's to 'X' and 'T' back to 'O'
         for r in range(ROWS):
             for c in range(COLS):
-                if board[r][c] == "O":
-                    board[r][c] = "X"
-                elif board[r][c] == "T":
-                    board[r][c] = "O"
+                if board[r][c] == 'O':
+                    board[r][c] = 'X'
+                if board[r][c] == 'T':
+                    board[r][c] = 'O'
+            
