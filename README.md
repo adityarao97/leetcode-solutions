@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/adityarao97/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/adityarao97/leetcode-solutions/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/adityarao97/leetcode-solutions/tree/master/0948-sort-an-array) |
+| [0990-verifying-an-alien-dictionary](https://github.com/adityarao97/leetcode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1014-k-closest-points-to-origin](https://github.com/adityarao97/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/adityarao97/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/adityarao97/leetcode-solutions/tree/master/1108-analyze-user-website-visit-pattern) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/adityarao97/leetcode-solutions/tree/master/0817-design-hashmap) |
 | [0870-magic-squares-in-grid](https://github.com/adityarao97/leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0990-verifying-an-alien-dictionary](https://github.com/adityarao97/leetcode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/adityarao97/leetcode-solutions/tree/master/1023-time-based-key-value-store) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/adityarao97/leetcode-solutions/tree/master/1108-analyze-user-website-visit-pattern) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/adityarao97/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/adityarao97/leetcode-solutions/tree/master/0778-reorganize-string) |
+| [0990-verifying-an-alien-dictionary](https://github.com/adityarao97/leetcode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/adityarao97/leetcode-solutions/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/adityarao97/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/adityarao97/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
