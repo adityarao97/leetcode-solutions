@@ -3,7 +3,10 @@ class Solution:
         #intuition : we compare each character in s (i index) with each character in p (j index) there's a match 
         #if s[i] == p[j] or if p[j] == '.'
         #if we encounter a '*' we have two choices either to match (recursive call with i+1, j) or not to match(recursive call with i, j+1)
+        dp = {}
         def dfs(i, j):
+            if (i, j) in dp:
+                return dp[(i, j)]
             #if we exceed both s and p length we have matched successfully
             if i >= len(s) and j >= len(p):
                 return True
@@ -14,8 +17,11 @@ class Solution:
             match = (i < len(s)) and (s[i] == p[j] or p[j] == '.')
             #check for '*' case
             if (j + 1 < len(p) and p[j + 1] == '*'):
-                return (match and dfs(i + 1, j)) or dfs(i, j + 2)
+                dp[(i, j)] = (match and dfs(i + 1, j)) or dfs(i, j + 2)
+                return dp[(i, j)]
             if match:
-                return dfs(i + 1, j + 1)
-            return False
+                dp[(i, j)] = dfs(i + 1, j + 1)
+                return dp[(i, j)]
+            dp[(i, j)] = False
+            return dp[(i, j)]
         return dfs(0, 0)
