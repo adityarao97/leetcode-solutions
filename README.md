@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/adityarao97/leetcode-solutions/tree/master/1039-find-the-town-judge) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/adityarao97/leetcode-solutions/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1127-last-stone-weight](https://github.com/adityarao97/leetcode-solutions/tree/master/1127-last-stone-weight) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/adityarao97/leetcode-solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1635-number-of-good-pairs](https://github.com/adityarao97/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [1706-min-cost-to-connect-all-points](https://github.com/adityarao97/leetcode-solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/adityarao97/leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/adityarao97/leetcode-solutions/tree/master/1039-find-the-town-judge) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/adityarao97/leetcode-solutions/tree/master/1108-analyze-user-website-visit-pattern) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/adityarao97/leetcode-solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1635-number-of-good-pairs](https://github.com/adityarao97/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/adityarao97/leetcode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Math
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/adityarao97/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/adityarao97/leetcode-solutions/tree/master/1108-analyze-user-website-visit-pattern) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/adityarao97/leetcode-solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/adityarao97/leetcode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2681-put-marbles-in-bags](https://github.com/adityarao97/leetcode-solutions/tree/master/2681-put-marbles-in-bags) |
 ## Linked List
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/adityarao97/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/adityarao97/leetcode-solutions/tree/master/0876-hand-of-straights) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/adityarao97/leetcode-solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/adityarao97/leetcode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2681-put-marbles-in-bags](https://github.com/adityarao97/leetcode-solutions/tree/master/2681-put-marbles-in-bags) |
 ## Divide and Conquer
