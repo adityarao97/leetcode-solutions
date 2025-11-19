@@ -11,11 +11,9 @@ class Solution:
                 return open == 0
             if s[i] == '(':
                 dp[(i, open)] = dfs(i + 1, open + 1)
-                return dp[(i, open)]
             if s[i] == ')':
-                dp[(i, open)] = dfs(i + 1, open - 1) 
-                return dp[(i, open)] 
+                dp[(i, open)] = dfs(i + 1, open - 1)
             if s[i] == '*':
-                dp[(i, open)] = dfs(i + 1, open) or dfs(i + 1, open - 1) or dfs(i + 1, open + 1) 
-                return dp[(i, open)]
+                dp[(i, open)] = dfs(i + 1, open) or dfs(i + 1, open - 1) or dfs(i + 1, open + 1)
+            return dp[(i, open)]
         return dfs(0, 0)
