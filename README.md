@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/adityarao97/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/adityarao97/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/adityarao97/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/adityarao97/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0753-open-the-lock](https://github.com/adityarao97/leetcode-solutions/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/adityarao97/leetcode-solutions/tree/master/0778-reorganize-string) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/adityarao97/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adityarao97/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/adityarao97/leetcode-solutions/tree/master/0155-min-stack) |
+| [0678-valid-parenthesis-string](https://github.com/adityarao97/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/adityarao97/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/adityarao97/leetcode-solutions/tree/master/0883-car-fleet) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/adityarao97/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
 | [0435-non-overlapping-intervals](https://github.com/adityarao97/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/adityarao97/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/adityarao97/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/adityarao97/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/adityarao97/leetcode-solutions/tree/master/0876-hand-of-straights) |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/adityarao97/leetcode-solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/adityarao97/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/adityarao97/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/adityarao97/leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/adityarao97/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/adityarao97/leetcode-solutions/tree/master/1013-fibonacci-number) |
