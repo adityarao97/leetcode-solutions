@@ -1,18 +1,17 @@
 class Solution:
     def isHappy(self, n: int) -> bool:
         visit = set()
-        def sumOfSquares(n):
+        def sumOfSquares(num):
             output = 0
-            while n:
-                digit = n % 10
+            while num:
+                digit = num % 10
                 digit = digit ** 2
                 output += digit
-                n = n // 10
+                num = num // 10
             return output
-
         while n not in visit:
             visit.add(n)
-            n = sumOfSquares(n)
             if n == 1:
                 return True
+            n = sumOfSquares(n)
         return False
