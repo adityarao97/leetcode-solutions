@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityarao97/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/adityarao97/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/adityarao97/leetcode-solutions/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/adityarao97/leetcode-solutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/adityarao97/leetcode-solutions/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adityarao97/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adityarao97/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -715,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/adityarao97/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/adityarao97/leetcode-solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/adityarao97/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/adityarao97/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/adityarao97/leetcode-solutions/tree/master/0268-missing-number) |
