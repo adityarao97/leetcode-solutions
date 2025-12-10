@@ -626,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/adityarao97/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/adityarao97/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/adityarao97/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/adityarao97/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/adityarao97/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/adityarao97/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/adityarao97/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/adityarao97/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/adityarao97/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/adityarao97/leetcode-solutions/tree/master/0744-network-delay-time) |
@@ -747,4 +749,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1851-minimum-interval-to-include-each-query](https://github.com/adityarao97/leetcode-solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/adityarao97/leetcode-solutions/tree/master/1977-minimum-interval-to-include-each-query) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/adityarao97/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
