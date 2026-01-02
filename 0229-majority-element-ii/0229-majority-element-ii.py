@@ -3,7 +3,7 @@ class Solution:
         count = Counter(nums)
         byThree = len(nums)//3
         res = []
-        for key in count:
-            if count[key] > byThree:
+        for key, value in count.items():
+            if value > byThree:
                 res.append(key)
         return res
