@@ -22,5 +22,3 @@ class Solution:
             if A[i - 1] >= 0:
                 return i
         return len(A) + 1
-
-
