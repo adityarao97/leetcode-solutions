@@ -5,9 +5,5 @@ class Solution:
         """
         copy = nums.copy()
         for i in range(len(nums)):
-            newIdx = 0
-            if i + 1 + k > len(nums):
-                newIdx = (i + k) % len(nums)
-            else:
-                newIdx = i + k
+            newIdx = (i + k) % len(nums)
             nums[newIdx] = copy[i]
