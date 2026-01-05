@@ -3,6 +3,7 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
+        #reverse the list completely and then reverse first k elements and remaining separately to achieve final result
         n = len(nums)
         k = k % n
         l, r = 0, n - 1
