@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/adityarao97/leetcode-solutions/tree/master/0817-design-hashmap) |
 | [0870-magic-squares-in-grid](https://github.com/adityarao97/leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/adityarao97/leetcode-solutions/tree/master/0876-hand-of-straights) |
+| [0881-boats-to-save-people](https://github.com/adityarao97/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0883-car-fleet](https://github.com/adityarao97/leetcode-solutions/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/adityarao97/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/adityarao97/leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/adityarao97/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/adityarao97/leetcode-solutions/tree/master/0768-partition-labels) |
+| [0881-boats-to-save-people](https://github.com/adityarao97/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/adityarao97/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/adityarao97/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/adityarao97/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/adityarao97/leetcode-solutions/tree/master/0876-hand-of-straights) |
+| [0881-boats-to-save-people](https://github.com/adityarao97/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0883-car-fleet](https://github.com/adityarao97/leetcode-solutions/tree/master/0883-car-fleet) |
 | [0912-sort-an-array](https://github.com/adityarao97/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/adityarao97/leetcode-solutions/tree/master/0948-sort-an-array) |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/adityarao97/leetcode-solutions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/adityarao97/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/adityarao97/leetcode-solutions/tree/master/0876-hand-of-straights) |
+| [0881-boats-to-save-people](https://github.com/adityarao97/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/adityarao97/leetcode-solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/adityarao97/leetcode-solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/adityarao97/leetcode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
