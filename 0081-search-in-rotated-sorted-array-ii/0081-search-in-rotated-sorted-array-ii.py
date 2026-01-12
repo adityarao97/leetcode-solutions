@@ -15,6 +15,6 @@ class Solution:
                     l = mid + 1
                 else:
                     r = mid - 1
-            else: # numbers are same nums[l] == nums[mid] so we increase value
+            else: # numbers are same nums[l] == nums[mid] so we increase left to skip duplicates
                 l += 1
         return False
