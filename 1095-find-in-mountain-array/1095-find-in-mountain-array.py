@@ -10,6 +10,7 @@ class Solution:
     def findInMountainArray(self, target: int, mountainArr: 'MountainArray') -> int:
         length = mountainArr.length()
         l, r = 1, length - 2
+        #find peak element using binary search
         while l <= r:
             m = (l + r) // 2
             left = mountainArr.get(m - 1)
@@ -23,6 +24,7 @@ class Solution:
                 r = m - 1
         peak = m
         l, r = 0, peak - 1
+        #search in first half of the array which is in increasing order
         while l <= r:
             m = (l + r) // 2
             mid = mountainArr.get(m)
@@ -32,7 +34,7 @@ class Solution:
                 r = m - 1
             else:
                 l = m + 1
-
+        #search in second half of the array which is in decreasing order
         l, r = peak, length - 1
         while l <= r:
             m = (l + r) // 2
