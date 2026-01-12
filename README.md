@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/adityarao97/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/adityarao97/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/adityarao97/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/adityarao97/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/adityarao97/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/adityarao97/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/adityarao97/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/adityarao97/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/adityarao97/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/adityarao97/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/adityarao97/leetcode-solutions/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/adityarao97/leetcode-solutions/tree/master/0792-binary-search) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/adityarao97/leetcode-solutions/tree/master/0134-gas-station) |
 | [0253-meeting-rooms-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
+| [0410-split-array-largest-sum](https://github.com/adityarao97/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/adityarao97/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/adityarao97/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/adityarao97/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/adityarao97/leetcode-solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/adityarao97/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/adityarao97/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0410-split-array-largest-sum](https://github.com/adityarao97/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/adityarao97/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/adityarao97/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/adityarao97/leetcode-solutions/tree/master/0494-target-sum) |
@@ -758,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/adityarao97/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0253-meeting-rooms-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/adityarao97/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0410-split-array-largest-sum](https://github.com/adityarao97/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/adityarao97/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Memoization
 |  |
