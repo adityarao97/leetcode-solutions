@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/adityarao97/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/adityarao97/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0622-design-circular-queue](https://github.com/adityarao97/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0658-find-k-closest-elements](https://github.com/adityarao97/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/adityarao97/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/adityarao97/leetcode-solutions/tree/master/0704-binary-search) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/adityarao97/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/adityarao97/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/adityarao97/leetcode-solutions/tree/master/0355-design-twitter) |
+| [0622-design-circular-queue](https://github.com/adityarao97/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0816-design-hashset](https://github.com/adityarao97/leetcode-solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/adityarao97/leetcode-solutions/tree/master/0817-design-hashmap) |
 ## Recursion
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/adityarao97/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0355-design-twitter](https://github.com/adityarao97/leetcode-solutions/tree/master/0355-design-twitter) |
+| [0622-design-circular-queue](https://github.com/adityarao97/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0816-design-hashset](https://github.com/adityarao97/leetcode-solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/adityarao97/leetcode-solutions/tree/master/0817-design-hashmap) |
 | [0895-maximum-frequency-stack](https://github.com/adityarao97/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
@@ -583,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/adityarao97/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/adityarao97/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/adityarao97/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/adityarao97/leetcode-solutions/tree/master/0622-design-circular-queue) |
 ## Monotonic Queue
 |  |
 | ------- |
