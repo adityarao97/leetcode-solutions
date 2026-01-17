@@ -569,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/adityarao97/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/adityarao97/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/adityarao97/leetcode-solutions/tree/master/0622-design-circular-queue) |
+| [0715-range-module](https://github.com/adityarao97/leetcode-solutions/tree/master/0715-range-module) |
 | [0816-design-hashset](https://github.com/adityarao97/leetcode-solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/adityarao97/leetcode-solutions/tree/master/0817-design-hashmap) |
 | [0895-maximum-frequency-stack](https://github.com/adityarao97/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
@@ -857,10 +858,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0715-range-module](https://github.com/adityarao97/leetcode-solutions/tree/master/0715-range-module) |
 | [0895-maximum-frequency-stack](https://github.com/adityarao97/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
 ## Interactive
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/adityarao97/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [1095-find-in-mountain-array](https://github.com/adityarao97/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
+## Segment Tree
+|  |
+| ------- |
+| [0715-range-module](https://github.com/adityarao97/leetcode-solutions/tree/master/0715-range-module) |
 <!---LeetCode Topics End-->
