@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/adityarao97/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/adityarao97/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/adityarao97/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0427-construct-quad-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/adityarao97/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/adityarao97/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/adityarao97/leetcode-solutions/tree/master/0494-target-sum) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/adityarao97/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/adityarao97/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/adityarao97/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0427-construct-quad-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/adityarao97/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0794-swim-in-rising-water](https://github.com/adityarao97/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [0870-magic-squares-in-grid](https://github.com/adityarao97/leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/adityarao97/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityarao97/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/adityarao97/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0427-construct-quad-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0912-sort-an-array](https://github.com/adityarao97/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/adityarao97/leetcode-solutions/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/adityarao97/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
@@ -636,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adityarao97/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0427-construct-quad-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/adityarao97/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/0545-boundary-of-binary-tree) |
