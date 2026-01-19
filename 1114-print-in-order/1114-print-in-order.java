@@ -1,14 +1,12 @@
 class Foo {
-
     private volatile boolean firstDone, secondDone;
     private Lock lock;
-    private Condition condition1, condition2;
+    private Condition condition1, condition2; 
+
     public Foo() {
-        firstDone = false;
-        secondDone = false;
+        firstDone = secondDone = false;
         lock = new ReentrantLock();
-        condition1 = lock.newCondition();
-        condition2 = lock.newCondition();
+        condition1 = condition2 = lock.newCondition();
     }
 
     public void first(Runnable printFirst) throws InterruptedException {
@@ -38,6 +36,7 @@ class Foo {
         finally{
             lock.unlock();
         }
+
     }
 
     public void third(Runnable printThird) throws InterruptedException {
