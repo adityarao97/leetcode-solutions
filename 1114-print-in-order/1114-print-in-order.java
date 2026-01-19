@@ -4,9 +4,11 @@ class Foo {
     private Condition condition1, condition2; 
 
     public Foo() {
-        firstDone = secondDone = false;
+        firstDone = false;
+        secondDone = false;
         lock = new ReentrantLock();
-        condition1 = condition2 = lock.newCondition();
+        condition1 = lock.newCondition();
+        condition2 = lock.newCondition();
     }
 
     public void first(Runnable printFirst) throws InterruptedException {
