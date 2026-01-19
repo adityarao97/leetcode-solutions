@@ -1,7 +1,7 @@
 class H2O {
 
     Semaphore hSemaphore, oSemaphore;
-    
+
     public H2O() {
         hSemaphore = new Semaphore(2);
         oSemaphore = new Semaphore(0);
