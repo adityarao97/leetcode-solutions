@@ -13,7 +13,7 @@ class ZeroEvenOdd {
     public void zero(IntConsumer printNumber) throws InterruptedException {
         for(int i = 1; i <= n; i++){
             zero.acquire();
-            printNumber.accept(i);
+            printNumber.accept(0);
             if(i%2==0){
                 even.release();
             }
