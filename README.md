@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/adityarao97/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/adityarao97/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/adityarao97/leetcode-solutions/tree/master/1039-find-the-town-judge) |
+| [1094-car-pooling](https://github.com/adityarao97/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1095-find-in-mountain-array](https://github.com/adityarao97/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/adityarao97/leetcode-solutions/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1127-last-stone-weight](https://github.com/adityarao97/leetcode-solutions/tree/master/1127-last-stone-weight) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/adityarao97/leetcode-solutions/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/adityarao97/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1094-car-pooling](https://github.com/adityarao97/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/adityarao97/leetcode-solutions/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/adityarao97/leetcode-solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1834-single-threaded-cpu](https://github.com/adityarao97/leetcode-solutions/tree/master/1834-single-threaded-cpu) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/adityarao97/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/adityarao97/leetcode-solutions/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/adityarao97/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1094-car-pooling](https://github.com/adityarao97/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1127-last-stone-weight](https://github.com/adityarao97/leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [1405-longest-happy-string](https://github.com/adityarao97/leetcode-solutions/tree/master/1405-longest-happy-string) |
 | [1834-single-threaded-cpu](https://github.com/adityarao97/leetcode-solutions/tree/master/1834-single-threaded-cpu) |
@@ -626,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/adityarao97/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/adityarao97/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/adityarao97/leetcode-solutions/tree/master/0682-baseball-game) |
+| [1094-car-pooling](https://github.com/adityarao97/leetcode-solutions/tree/master/1094-car-pooling) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/adityarao97/leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/adityarao97/leetcode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Tree
@@ -797,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/adityarao97/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/adityarao97/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/adityarao97/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1094-car-pooling](https://github.com/adityarao97/leetcode-solutions/tree/master/1094-car-pooling) |
 ## Memoization
 |  |
 | ------- |
