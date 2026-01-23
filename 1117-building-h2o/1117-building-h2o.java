@@ -1,23 +1,21 @@
 class H2O {
-
-    Semaphore hSemaphore, oSemaphore;
-
+    Semaphore hydrogen, oxygen;
     public H2O() {
-        hSemaphore = new Semaphore(2);
-        oSemaphore = new Semaphore(0);
+        hydrogen = new Semaphore(2);
+        oxygen = new Semaphore(0);
     }
 
     public void hydrogen(Runnable releaseHydrogen) throws InterruptedException {
-		hSemaphore.acquire();
+		hydrogen.acquire();
         // releaseHydrogen.run() outputs "H". Do not change or remove this line.
         releaseHydrogen.run();
-        oSemaphore.release();
+        oxygen.release();
     }
 
     public void oxygen(Runnable releaseOxygen) throws InterruptedException {
-        oSemaphore.acquire(2);
+        oxygen.acquire(2);
         // releaseOxygen.run() outputs "O". Do not change or remove this line.
 		releaseOxygen.run();
-        hSemaphore.release(2);
+        hydrogen.release(2);
     }
 }
