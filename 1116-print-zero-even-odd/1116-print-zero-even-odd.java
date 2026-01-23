@@ -11,7 +11,7 @@ class ZeroEvenOdd {
 
     // printNumber.accept(x) outputs "x", where x is an integer.
     public void zero(IntConsumer printNumber) throws InterruptedException {
-        for(int i = 0; i <= n; i++){
+        for(int i = 1; i <= n; i++){
             zero.acquire();
             printNumber.accept(i);
             if(i%2==0){
