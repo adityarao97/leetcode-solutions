@@ -1,6 +1,7 @@
 class FooBar {
     private int n;
     Semaphore foo, bar;
+
     public FooBar(int n) {
         this.n = n;
         foo = new Semaphore(1);
