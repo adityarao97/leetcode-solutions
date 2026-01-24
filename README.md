@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/adityarao97/leetcode-solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1834-single-threaded-cpu](https://github.com/adityarao97/leetcode-solutions/tree/master/1834-single-threaded-cpu) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/adityarao97/leetcode-solutions/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/adityarao97/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/adityarao97/leetcode-solutions/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2013-detect-squares](https://github.com/adityarao97/leetcode-solutions/tree/master/2013-detect-squares) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/adityarao97/leetcode-solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/adityarao97/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/adityarao97/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1635-number-of-good-pairs](https://github.com/adityarao97/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/adityarao97/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/adityarao97/leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Matrix
 |  |
@@ -623,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/adityarao97/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/adityarao97/leetcode-solutions/tree/master/0494-target-sum) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/adityarao97/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Simulation
 |  |
 | ------- |
@@ -768,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/adityarao97/leetcode-solutions/tree/master/0062-unique-paths) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/adityarao97/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/adityarao97/leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Union Find
 |  |
@@ -858,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/adityarao97/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/adityarao97/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/adityarao97/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/adityarao97/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Geometry
 |  |
 | ------- |
@@ -903,4 +908,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1117-building-h2o](https://github.com/adityarao97/leetcode-solutions/tree/master/1117-building-h2o) |
 | [1195-fizz-buzz-multithreaded](https://github.com/adityarao97/leetcode-solutions/tree/master/1195-fizz-buzz-multithreaded) |
 | [1226-the-dining-philosophers](https://github.com/adityarao97/leetcode-solutions/tree/master/1226-the-dining-philosophers) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/adityarao97/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
