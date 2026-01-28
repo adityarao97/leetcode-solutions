@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/adityarao97/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/adityarao97/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/adityarao97/leetcode-solutions/tree/master/1039-find-the-town-judge) |
+| [1046-last-stone-weight](https://github.com/adityarao97/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/adityarao97/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1095-find-in-mountain-array](https://github.com/adityarao97/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/adityarao97/leetcode-solutions/tree/master/1108-analyze-user-website-visit-pattern) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/adityarao97/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/adityarao97/leetcode-solutions/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/adityarao97/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/adityarao97/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/adityarao97/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1127-last-stone-weight](https://github.com/adityarao97/leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [1405-longest-happy-string](https://github.com/adityarao97/leetcode-solutions/tree/master/1405-longest-happy-string) |
