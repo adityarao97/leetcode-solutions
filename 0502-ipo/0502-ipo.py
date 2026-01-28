@@ -6,8 +6,8 @@ class Solution:
         for i in range(k):
             while minCapital and minCapital[0][0] <= w:
                 c, p = heapq.heappop(minCapital)
-                heapq.heappush(maxProfit, -p)
+                heapq.heappush_max(maxProfit, p)
             if not maxProfit:
                 break
-            w += -heapq.heappop(maxProfit)
+            w += heapq.heappop_max(maxProfit)
         return w
