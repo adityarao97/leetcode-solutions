@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/adityarao97/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0932-monotonic-array](https://github.com/adityarao97/leetcode-solutions/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/adityarao97/leetcode-solutions/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/adityarao97/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0990-verifying-an-alien-dictionary](https://github.com/adityarao97/leetcode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/adityarao97/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1014-k-closest-points-to-origin](https://github.com/adityarao97/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/adityarao97/leetcode-solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/adityarao97/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0870-magic-squares-in-grid](https://github.com/adityarao97/leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
+| [0973-k-closest-points-to-origin](https://github.com/adityarao97/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/adityarao97/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/adityarao97/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1635-number-of-good-pairs](https://github.com/adityarao97/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/adityarao97/leetcode-solutions/tree/master/0883-car-fleet) |
 | [0912-sort-an-array](https://github.com/adityarao97/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/adityarao97/leetcode-solutions/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/adityarao97/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/adityarao97/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1094-car-pooling](https://github.com/adityarao97/leetcode-solutions/tree/master/1094-car-pooling) |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0912-sort-an-array](https://github.com/adityarao97/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/adityarao97/leetcode-solutions/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/adityarao97/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/adityarao97/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
@@ -490,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/adityarao97/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/adityarao97/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/adityarao97/leetcode-solutions/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/adityarao97/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/adityarao97/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/adityarao97/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/adityarao97/leetcode-solutions/tree/master/1094-car-pooling) |
@@ -511,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityarao97/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/adityarao97/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/adityarao97/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/adityarao97/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
@@ -886,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/adityarao97/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/adityarao97/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Shortest Path
 |  |
