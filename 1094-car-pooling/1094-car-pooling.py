@@ -1,8 +1,7 @@
 class Solution:
     def carPooling(self, trips: List[List[int]], capacity: int) -> bool:
-        #sort based on the starting position
-        trips.sort(key = lambda t: t[1])
-        minHeap = [] # [end, numPass]
+        trips.sort(key = lambda t : t[1])
+        minHeap = [] # [to, numPassengers]
         curCapacity = 0
         for numPass, start, end in trips:
             while minHeap and minHeap[0][0] <= start:
@@ -11,5 +10,5 @@ class Solution:
             curCapacity += numPass
             if curCapacity > capacity:
                 return False
-            heapq.heappush(minHeap, [end, numPass])
+            heapq.heappush(minHeap, [end, numPass]) 
         return True
