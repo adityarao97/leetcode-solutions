@@ -1,8 +1,8 @@
 class Solution:
     def solveNQueens(self, n: int) -> List[List[str]]:
         col = set() #unique columns where queen has been inserted
-        posDiag = set() #diagonals where queen has been inserted, determined by r - c
-        negDiag = set() #diagonals where queen has been inserted, determined by r + c
+        posDiag = set() #diagonals where queen has been inserted, determined by r + c
+        negDiag = set() #diagonals where queen has been inserted, determined by r - c
         res = []
         board = [["."] * n for i in range(n)]
         def backtrack(r):
