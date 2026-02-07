@@ -10,7 +10,6 @@ class Solution:
             visited.add((r, c))
             i += 1
             res = dfs(r + 1, c, i) or dfs(r - 1, c, i) or dfs(r, c + 1, i) or dfs(r, c - 1, i)
-            i -= 1
             visited.remove((r, c))
             return res
         for r in range(ROWS):
