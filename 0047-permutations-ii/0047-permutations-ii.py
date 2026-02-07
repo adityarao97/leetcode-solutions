@@ -1,9 +1,8 @@
 class Solution:
     def permuteUnique(self, nums: List[int]) -> List[List[int]]:
-        res, perm = [], []
-        count = {n : 0 for n in nums}
-        for n in nums:
-            count[n] += 1
+        res = []
+        perm = []
+        count = Counter(nums)
         def dfs():
             if len(perm) == len(nums):
                 res.append(perm.copy())
@@ -13,7 +12,7 @@ class Solution:
                     perm.append(n)
                     count[n] -= 1
                     dfs()
-                    count[n] += 1
                     perm.pop()
+                    count[n] += 1
         dfs()
         return res
