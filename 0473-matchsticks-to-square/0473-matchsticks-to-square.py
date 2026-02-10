@@ -14,5 +14,7 @@ class Solution:
                     sides[j] += matchsticks[i]
                     if dfs(i + 1): return True
                     sides[j] -= matchsticks[i]
+                if sides[j] == 0:
+                    break
             return False
         return dfs(0)
