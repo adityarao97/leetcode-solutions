@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/adityarao97/leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/adityarao97/leetcode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2681-put-marbles-in-bags](https://github.com/adityarao97/leetcode-solutions/tree/master/2681-put-marbles-in-bags) |
+| [2707-extra-characters-in-a-string](https://github.com/adityarao97/leetcode-solutions/tree/master/2707-extra-characters-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/adityarao97/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [2013-detect-squares](https://github.com/adityarao97/leetcode-solutions/tree/master/2013-detect-squares) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/adityarao97/leetcode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2707-extra-characters-in-a-string](https://github.com/adityarao97/leetcode-solutions/tree/master/2707-extra-characters-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1405-longest-happy-string](https://github.com/adityarao97/leetcode-solutions/tree/master/1405-longest-happy-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/adityarao97/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/adityarao97/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
+| [2707-extra-characters-in-a-string](https://github.com/adityarao97/leetcode-solutions/tree/master/2707-extra-characters-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/adityarao97/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/adityarao97/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/adityarao97/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
+| [2707-extra-characters-in-a-string](https://github.com/adityarao97/leetcode-solutions/tree/master/2707-extra-characters-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -893,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/adityarao97/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0212-word-search-ii) |
+| [2707-extra-characters-in-a-string](https://github.com/adityarao97/leetcode-solutions/tree/master/2707-extra-characters-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
