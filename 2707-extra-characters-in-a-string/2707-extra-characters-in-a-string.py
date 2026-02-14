@@ -1,17 +1,14 @@
 class Solution:
     def minExtraChar(self, s: str, dictionary: List[str]) -> int:
-        res = len(s) - 1
         words = set(dictionary)
         dp = {}
+        dp[len(s)] = 0
         def dfs(i):
-            if i == len(s):
-                return 0
             if i in dp:
                 return dp[i]
-            res = 1 + dfs(i + 1) # skip current character
+            dp[i] = 1 + dfs(i + 1) # skip current character
             for j in range(i, len(s)):
                 if s[i: j + 1] in words:
-                    res = min(res, dfs(j + 1))
-                    dp[i] = res
-            return res
+                    dp[i] = min(dp[i], dfs(j + 1))
+            return dp[i]
         return dfs(0)
