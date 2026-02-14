@@ -1,16 +1,16 @@
-class Trie:
+class TrieNode:
     def __init__(self):
         self.children = {}
         self.isWord = False
 
-class TrieNode:
+class Trie:
     def __init__(self, words):
-        self.root = Trie()
+        self.root = TrieNode()
         for w in words:
             curr = self.root
             for c in w:
                 if c not in curr.children:
-                    curr.children[c] = Trie()
+                    curr.children[c] = TrieNode()
                 curr = curr.children[c]
             curr.isWord = True
 
@@ -18,7 +18,7 @@ class Solution:
     def minExtraChar(self, s: str, dictionary: List[str]) -> int:
         dp = {}
         dp[len(s)] = 0
-        trie = TrieNode(dictionary)
+        trie = Trie(dictionary)
         def dfs(i):
             if i in dp:
                 return dp[i]
