@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/adityarao97/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/adityarao97/leetcode-solutions/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1127-last-stone-weight](https://github.com/adityarao97/leetcode-solutions/tree/master/1127-last-stone-weight) |
+| [1267-count-servers-that-communicate](https://github.com/adityarao97/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/adityarao97/leetcode-solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1635-number-of-good-pairs](https://github.com/adityarao97/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [1706-min-cost-to-connect-all-points](https://github.com/adityarao97/leetcode-solutions/tree/master/1706-min-cost-to-connect-all-points) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/adityarao97/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [0870-magic-squares-in-grid](https://github.com/adityarao97/leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [1036-rotting-oranges](https://github.com/adityarao97/leetcode-solutions/tree/master/1036-rotting-oranges) |
+| [1267-count-servers-that-communicate](https://github.com/adityarao97/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 ## String
 |  |
 | ------- |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/adityarao97/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/adityarao97/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0778-reorganize-string](https://github.com/adityarao97/leetcode-solutions/tree/master/0778-reorganize-string) |
+| [1267-count-servers-that-communicate](https://github.com/adityarao97/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1635-number-of-good-pairs](https://github.com/adityarao97/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [2013-detect-squares](https://github.com/adityarao97/leetcode-solutions/tree/master/2013-detect-squares) |
 ## Greedy
@@ -738,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/adityarao97/leetcode-solutions/tree/master/1036-rotting-oranges) |
+| [1267-count-servers-that-communicate](https://github.com/adityarao97/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/adityarao97/leetcode-solutions/tree/master/1558-course-schedule-iv) |
 ## Binary Tree
@@ -807,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/adityarao97/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/adityarao97/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/adityarao97/leetcode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/adityarao97/leetcode-solutions/tree/master/1558-course-schedule-iv) |
@@ -978,4 +983,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/adityarao97/leetcode-solutions/tree/master/0721-accounts-merge) |
+| [1267-count-servers-that-communicate](https://github.com/adityarao97/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
