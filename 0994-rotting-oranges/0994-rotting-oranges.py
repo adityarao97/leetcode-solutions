@@ -1,9 +1,9 @@
 class Solution:
     def orangesRotting(self, grid: List[List[int]]) -> int:
         ROWS, COLS = len(grid), len(grid[0])
-        q = deque()
         fresh = 0
         minutes = 0
+        q = deque()
         for r in range(ROWS):
             for c in range(COLS):
                 if grid[r][c] == 2:
@@ -19,7 +19,7 @@ class Solution:
                     nr, nc = dr + r, dc + c
                     if nr in range(ROWS) and nc in range(COLS) and grid[nr][nc] == 1:
                         grid[nr][nc] = 2
-                        fresh -= 1
                         q.append((nr, nc))
+                        fresh -= 1
             minutes += 1
         return minutes if fresh == 0 else -1
