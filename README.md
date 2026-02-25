@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/adityarao97/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0739-daily-temperatures](https://github.com/adityarao97/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/adityarao97/leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [0752-open-the-lock](https://github.com/adityarao97/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0753-open-the-lock](https://github.com/adityarao97/leetcode-solutions/tree/master/0753-open-the-lock) |
 | [0792-binary-search](https://github.com/adityarao97/leetcode-solutions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/adityarao97/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/adityarao97/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/adityarao97/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/adityarao97/leetcode-solutions/tree/master/0721-accounts-merge) |
+| [0752-open-the-lock](https://github.com/adityarao97/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0753-open-the-lock](https://github.com/adityarao97/leetcode-solutions/tree/master/0753-open-the-lock) |
 | [0767-reorganize-string](https://github.com/adityarao97/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0768-partition-labels](https://github.com/adityarao97/leetcode-solutions/tree/master/0768-partition-labels) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/adityarao97/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/adityarao97/leetcode-solutions/tree/master/0721-accounts-merge) |
+| [0752-open-the-lock](https://github.com/adityarao97/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0753-open-the-lock](https://github.com/adityarao97/leetcode-solutions/tree/master/0753-open-the-lock) |
 | [0767-reorganize-string](https://github.com/adityarao97/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0768-partition-labels](https://github.com/adityarao97/leetcode-solutions/tree/master/0768-partition-labels) |
@@ -744,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/adityarao97/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/adityarao97/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/adityarao97/leetcode-solutions/tree/master/0744-network-delay-time) |
+| [0752-open-the-lock](https://github.com/adityarao97/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0753-open-the-lock](https://github.com/adityarao97/leetcode-solutions/tree/master/0753-open-the-lock) |
 | [0794-swim-in-rising-water](https://github.com/adityarao97/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/adityarao97/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
