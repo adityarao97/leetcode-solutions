@@ -1,23 +1,19 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        #adjacency list for mapping course against a list of prerequisites
-        preMap = {i:[] for i in range(numCourses)}
+        preMap = defaultdict(list)
         for crs, pre in prerequisites:
             preMap[crs].append(pre)
-        visitSet = set()
+        visited = set()
         def dfs(crs):
-            #false base case where we detect a loop
-            if crs in visitSet:
+            if crs in visited:
                 return False
-            #if not pre requisite exist for a course we return True as its possible
             if preMap[crs] == []:
                 return True
-            visitSet.add(crs)
+            visited.add(crs)
             for pre in preMap[crs]:
                 if not dfs(pre):
                     return False
-            visitSet.remove(crs)
-            #mark the course as empty prereq so as to avoid repetition
+            visited.remove(crs)
             preMap[crs] = []
             return True
         for crs in range(numCourses):
