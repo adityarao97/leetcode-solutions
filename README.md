@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/adityarao97/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/adityarao97/leetcode-solutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/adityarao97/leetcode-solutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/adityarao97/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0721-accounts-merge](https://github.com/adityarao97/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0739-daily-temperatures](https://github.com/adityarao97/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/adityarao97/leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/adityarao97/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/adityarao97/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/adityarao97/leetcode-solutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/adityarao97/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0721-accounts-merge](https://github.com/adityarao97/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/adityarao97/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0753-open-the-lock](https://github.com/adityarao97/leetcode-solutions/tree/master/0753-open-the-lock) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/adityarao97/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/adityarao97/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/adityarao97/leetcode-solutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/adityarao97/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0816-design-hashset](https://github.com/adityarao97/leetcode-solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/adityarao97/leetcode-solutions/tree/master/0817-design-hashmap) |
 ## Recursion
@@ -638,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/adityarao97/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/adityarao97/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/adityarao97/leetcode-solutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/adityarao97/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0715-range-module](https://github.com/adityarao97/leetcode-solutions/tree/master/0715-range-module) |
 | [0816-design-hashset](https://github.com/adityarao97/leetcode-solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/adityarao97/leetcode-solutions/tree/master/0817-design-hashmap) |
@@ -898,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/adityarao97/leetcode-solutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/adityarao97/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0816-design-hashset](https://github.com/adityarao97/leetcode-solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/adityarao97/leetcode-solutions/tree/master/0817-design-hashmap) |
 ## Topological Sort
