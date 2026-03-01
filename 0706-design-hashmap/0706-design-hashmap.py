@@ -7,14 +7,14 @@ class ListNode:
 class MyHashMap:
 
     def hash(self, key):
-        return key % len(self.map)
+        return key % len(self.myMap)
 
     def __init__(self):
-        self.map = [ListNode() for _ in range(1000)]
+        self.myMap = [ListNode() for _ in range(10 ** 4)]
 
     def put(self, key: int, value: int) -> None:
         index = self.hash(key)
-        cur = self.map[index]
+        cur = self.myMap[index]
         while cur.next:
             if cur.next.key == key:
                 cur.next.value = value
@@ -24,7 +24,7 @@ class MyHashMap:
 
     def get(self, key: int) -> int:
         index = self.hash(key)
-        cur = self.map[index]
+        cur = self.myMap[index]
         while cur.next:
             if cur.next.key == key:
                 return cur.next.value
@@ -33,13 +33,12 @@ class MyHashMap:
 
     def remove(self, key: int) -> None:
         index = self.hash(key)
-        cur = self.map[index]
+        cur = self.myMap[index]
         while cur.next:
             if cur.next.key == key:
                 cur.next = cur.next.next
                 return
             cur = cur.next
-
 
 # Your MyHashMap object will be instantiated and called as such:
 # obj = MyHashMap()
