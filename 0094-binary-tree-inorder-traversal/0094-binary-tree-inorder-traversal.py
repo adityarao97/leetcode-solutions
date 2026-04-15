@@ -10,7 +10,7 @@ class Solution:
         res = []
         if not root: return res
         def inorder(root):
-            if root.left : inorder(root.left)
+            if root.left: inorder(root.left)
             res.append(root.val)
             if root.right: inorder(root.right)
         inorder(root)
