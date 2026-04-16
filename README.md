@@ -736,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/adityarao97/leetcode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -773,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/adityarao97/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1267-count-servers-that-communicate](https://github.com/adityarao97/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/adityarao97/leetcode-solutions/tree/master/1558-course-schedule-iv) |
 ## Binary Tree
@@ -804,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/adityarao97/leetcode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -849,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/adityarao97/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/adityarao97/leetcode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/adityarao97/leetcode-solutions/tree/master/1558-course-schedule-iv) |
 ## Doubly-Linked List
