@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/adityarao97/leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [1267-count-servers-that-communicate](https://github.com/adityarao97/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/adityarao97/leetcode-solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1631-path-with-minimum-effort](https://github.com/adityarao97/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1635-number-of-good-pairs](https://github.com/adityarao97/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [1706-min-cost-to-connect-all-points](https://github.com/adityarao97/leetcode-solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1834-single-threaded-cpu](https://github.com/adityarao97/leetcode-solutions/tree/master/1834-single-threaded-cpu) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/adityarao97/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/adityarao97/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1267-count-servers-that-communicate](https://github.com/adityarao97/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+| [1631-path-with-minimum-effort](https://github.com/adityarao97/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## String
 |  |
 | ------- |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/adityarao97/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1023-time-based-key-value-store](https://github.com/adityarao97/leetcode-solutions/tree/master/1023-time-based-key-value-store) |
 | [1095-find-in-mountain-array](https://github.com/adityarao97/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
+| [1631-path-with-minimum-effort](https://github.com/adityarao97/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/adityarao97/leetcode-solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/adityarao97/leetcode-solutions/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Sorting
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/adityarao97/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1127-last-stone-weight](https://github.com/adityarao97/leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [1405-longest-happy-string](https://github.com/adityarao97/leetcode-solutions/tree/master/1405-longest-happy-string) |
+| [1631-path-with-minimum-effort](https://github.com/adityarao97/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/adityarao97/leetcode-solutions/tree/master/1834-single-threaded-cpu) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/adityarao97/leetcode-solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/adityarao97/leetcode-solutions/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -777,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/adityarao97/leetcode-solutions/tree/master/1558-course-schedule-iv) |
+| [1631-path-with-minimum-effort](https://github.com/adityarao97/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -855,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/adityarao97/leetcode-solutions/tree/master/1558-course-schedule-iv) |
+| [1631-path-with-minimum-effort](https://github.com/adityarao97/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1033,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/adityarao97/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/adityarao97/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [1267-count-servers-that-communicate](https://github.com/adityarao97/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+| [1631-path-with-minimum-effort](https://github.com/adityarao97/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
