@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/adityarao97/leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [1267-count-servers-that-communicate](https://github.com/adityarao97/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/adityarao97/leetcode-solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1470-shuffle-the-array](https://github.com/adityarao97/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1631-path-with-minimum-effort](https://github.com/adityarao97/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1635-number-of-good-pairs](https://github.com/adityarao97/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [1706-min-cost-to-connect-all-points](https://github.com/adityarao97/leetcode-solutions/tree/master/1706-min-cost-to-connect-all-points) |
