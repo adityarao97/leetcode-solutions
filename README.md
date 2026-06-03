@@ -1061,4 +1061,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/adityarao97/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/adityarao97/leetcode-solutions/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/adityarao97/leetcode-solutions/tree/master/0399-evaluate-division) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/adityarao97/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
