@@ -1,12 +1,13 @@
 class Solution:
-    @cache
     def minOperations(self, n: int) -> int:
-        if n == pow(2, int(math.log(n, 2))):
-            return 1
-        low = pow(2, int(math.log(n, 2)))
-        high = pow(2, int(math.log(n, 2)) + 1)
-
-        d1 = n - low
-        d2 = high - n
-
-        return 1 + min(self.minOperations(d1), self.minOperations(d2))
+        operations = 0
+        while n > 0:
+            if (n & 3) == 3:
+                n += 1
+                operations += 1
+            elif (n & 1) == 1:
+                n -= 1
+                operations += 1
+            else:
+                n >>= 1
+        return operations
