@@ -1,8 +1,8 @@
 class Solution:
     def compress(self, chars: List[str]) -> int:
         n = len(chars)
-        k = 0
         i = 0
+        k = 0
         while i < n:
             chars[k] = chars[i]
             k += 1
