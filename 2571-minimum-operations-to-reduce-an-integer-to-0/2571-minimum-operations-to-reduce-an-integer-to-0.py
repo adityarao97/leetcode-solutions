@@ -1,4 +1,5 @@
 class Solution:
+    @cache
     def minOperations(self, n: int) -> int:
         if n == pow(2, int(math.log(n, 2))):
             return 1
