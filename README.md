@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/adityarao97/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/adityarao97/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/adityarao97/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/adityarao97/leetcode-solutions/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2707-extra-characters-in-a-string](https://github.com/adityarao97/leetcode-solutions/tree/master/2707-extra-characters-in-a-string) |
 ## Stack
 |  |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/adityarao97/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/adityarao97/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/adityarao97/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/adityarao97/leetcode-solutions/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/adityarao97/leetcode-solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2707-extra-characters-in-a-string](https://github.com/adityarao97/leetcode-solutions/tree/master/2707-extra-characters-in-a-string) |
 ## Sliding Window
@@ -725,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/adityarao97/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1441-build-an-array-with-stack-operations](https://github.com/adityarao97/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/adityarao97/leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/adityarao97/leetcode-solutions/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/adityarao97/leetcode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Tree
 |  |
