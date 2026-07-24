@@ -512,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/adityarao97/leetcode-solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/adityarao97/leetcode-solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/adityarao97/leetcode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/adityarao97/leetcode-solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2681-put-marbles-in-bags](https://github.com/adityarao97/leetcode-solutions/tree/master/2681-put-marbles-in-bags) |
 ## Divide and Conquer
 |  |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/adityarao97/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/adityarao97/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/adityarao97/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/adityarao97/leetcode-solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2707-extra-characters-in-a-string](https://github.com/adityarao97/leetcode-solutions/tree/master/2707-extra-characters-in-a-string) |
 ## Sliding Window
 |  |
@@ -989,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/adityarao97/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/adityarao97/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/adityarao97/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/adityarao97/leetcode-solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Geometry
 |  |
 | ------- |
