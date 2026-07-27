@@ -626,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/adityarao97/leetcode-solutions/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/adityarao97/leetcode-solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2707-extra-characters-in-a-string](https://github.com/adityarao97/leetcode-solutions/tree/master/2707-extra-characters-in-a-string) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/adityarao97/leetcode-solutions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Sliding Window
 |  |
 | ------- |
@@ -803,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/adityarao97/leetcode-solutions/tree/master/1558-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/adityarao97/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/adityarao97/leetcode-solutions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Binary Tree
 |  |
 | ------- |
@@ -882,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/adityarao97/leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/adityarao97/leetcode-solutions/tree/master/1558-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/adityarao97/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/adityarao97/leetcode-solutions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1069,6 +1072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/adityarao97/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/adityarao97/leetcode-solutions/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/adityarao97/leetcode-solutions/tree/master/0399-evaluate-division) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/adityarao97/leetcode-solutions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Database
 |  |
 | ------- |
