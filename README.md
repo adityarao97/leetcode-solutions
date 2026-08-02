@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/adityarao97/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1635-number-of-good-pairs](https://github.com/adityarao97/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [1706-min-cost-to-connect-all-points](https://github.com/adityarao97/leetcode-solutions/tree/master/1706-min-cost-to-connect-all-points) |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/adityarao97/leetcode-solutions/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1834-single-threaded-cpu](https://github.com/adityarao97/leetcode-solutions/tree/master/1834-single-threaded-cpu) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/adityarao97/leetcode-solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/adityarao97/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/adityarao97/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/adityarao97/leetcode-solutions/tree/master/0768-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/adityarao97/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/adityarao97/leetcode-solutions/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1768-merge-strings-alternately](https://github.com/adityarao97/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/adityarao97/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/adityarao97/leetcode-solutions/tree/master/1023-time-based-key-value-store) |
 | [1095-find-in-mountain-array](https://github.com/adityarao97/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 | [1631-path-with-minimum-effort](https://github.com/adityarao97/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/adityarao97/leetcode-solutions/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/adityarao97/leetcode-solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/adityarao97/leetcode-solutions/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Sorting
@@ -936,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/adityarao97/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/adityarao97/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1094-car-pooling](https://github.com/adityarao97/leetcode-solutions/tree/master/1094-car-pooling) |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/adityarao97/leetcode-solutions/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [2270-number-of-ways-to-split-array](https://github.com/adityarao97/leetcode-solutions/tree/master/2270-number-of-ways-to-split-array) |
 ## Memoization
 |  |
